@@ -2,4 +2,4 @@ buttonActions
 browseChanges
 
 	self closeWindow.
-	CHBrowser open.
+	CRBrowser open.

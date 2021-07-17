@@ -1,0 +1,14 @@
+{
+	"category" : "ChangesReloaded-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"window" ],
+	"name" : "CRAfterCrashHelper",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

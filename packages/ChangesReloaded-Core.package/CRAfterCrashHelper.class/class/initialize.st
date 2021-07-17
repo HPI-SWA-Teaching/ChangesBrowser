@@ -1,0 +1,4 @@
+launching
+initialize 
+
+	self activate.

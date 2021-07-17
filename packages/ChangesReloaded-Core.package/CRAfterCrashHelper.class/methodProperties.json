@@ -1,21 +1,21 @@
 {
 	"class" : {
-		"activate" : "valentindoering 7/17/2021 16:19",
-		"deactivate" : "valentindoering 7/17/2021 16:16",
-		"initialize" : "valentindoering 7/17/2021 16:19",
+		"activate" : "valentindoering 7/17/2021 16:25",
+		"deactivate" : "valentindoering 7/17/2021 16:26",
+		"initialize" : "valentindoering 7/17/2021 16:26",
 		"open" : "MT 8/3/2017 17:36",
 		"shutDown:" : "MT 8/3/2017 17:36",
 		"startUp:" : "MT 8/3/2017 17:36" },
 	"instance" : {
 		"alwaysEnabled" : "MT 8/3/2017 17:22",
-		"browseChanges" : "valentindoering 7/17/2021 09:10",
+		"browseChanges" : "valentindoering 7/8/2021 20:44",
 		"buildButtonsWith:" : "MT 8/3/2017 17:22",
-		"buildWith:" : "MT 8/3/2017 17:22",
+		"buildWith:" : "valentindoering 7/17/2021 09:11",
 		"buttons" : "MT 8/3/2017 17:23",
 		"buttonsFrame" : "MT 8/3/2017 17:23",
 		"closeWindow" : "MT 8/3/2017 17:23",
 		"delete" : "avw 6/26/2017 16:19",
 		"extent" : "MT 8/3/2017 17:23",
-		"recoverChanges" : "MT 8/3/2017 17:23",
+		"recoverChanges" : "valentindoering 7/17/2021 09:12",
 		"window" : "avw 6/26/2017 16:16",
 		"window:" : "avw 6/26/2017 16:16" } }
